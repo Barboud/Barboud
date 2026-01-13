@@ -9,10 +9,10 @@ Always learning, always improving.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barboud)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barboud)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Barboud)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=barboud)](https://git.io/streak-stats)
 
 
 <!--
