@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Barboud=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Barboud/Barboud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
