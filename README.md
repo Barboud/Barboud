@@ -10,10 +10,12 @@ Learning new skills and solving problems consistently drives my motivation.
 
 ## Technologies I'd like to learn
 - Cloud computing
-- Security
+- Auto scaling
+- Pyton
 - Javascript
 
-
+## Top Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barboud)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 GitHub Streak Stats
 
