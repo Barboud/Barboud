@@ -16,7 +16,7 @@ Learning new skills and solving problems consistently drives my motivation.
 
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats-six-delta-21.vercel.app?user=Barboud&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
