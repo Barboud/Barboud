@@ -25,3 +25,7 @@ Learning new skills and solving problems consistently drives my motivation.
 
 [![GitHub Streak](https://github-readme-streak-stats-six-blue.vercel.app?user=Barboud&theme=shades-of-purple)](https://git.io/streak-stats)
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barboud"/>
+
