@@ -11,7 +11,7 @@ Learning new skills and solving problems consistently drives my motivation.
 ## Technologies I'd like to learn
 - Cloud computing
 - Auto scaling
-- Pyton
+- Python
 - Javascript
 
 ## Top Languages Card
