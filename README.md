@@ -16,18 +16,7 @@ Learning new skills and solving problems consistently drives my motivation.
 
 
 
+## 🔥 GitHub Streak Stats
+
 [![GitHub Streak](https://github-readme-streak-stats-six-delta-21.vercel.app?user=Barboud&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barboud)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://github-readme-streak-stats-six-blue.vercel.app?user=Barboud&theme=shades-of-purple)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Barboud&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barboud"/>
 
