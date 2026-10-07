@@ -21,11 +21,24 @@ Now I build back-end applications and run my own Linux server at home.
 | [**Find-My-Film**](https://github.com/Barboud/Find-My-Film) | Team project: search and filter movies. | JavaScript, Node.js |
 
 ## 🛠️ Tech I use
-
-**Back-end:** Java · Spring Boot · Node.js · Express · REST APIs
-**Databases:** PostgreSQL · MySQL · SQLite · Flyway
-**DevOps & cloud:** Docker · GitHub Actions (CI/CD) · Linux (Ubuntu) · DigitalOcean · Azure · Render
-**Testing & tools:** JUnit · Vitest · Git · Maven · Postman
+ 
+**Back-end**
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /></a>
+ 
+**Databases**
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></a>
+ 
+**DevOps & cloud**
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,azure,cloudflare" /></a>
+ 
+**Tools**
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,maven,postman,vitest,idea" /></a>
+ 
+<sub>Also: REST APIs · JUnit · Flyway · DigitalOcean · Render · Caddy</sub>
 
 ## 📫 Contact
 
