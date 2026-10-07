@@ -24,19 +24,19 @@ Now I build back-end applications and run my own Linux server at home.
  
 **Back-end**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" /></a>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" height="32" />
  
 **Databases**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /></a>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="32" />
  
 **DevOps & cloud**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,azure,cloudflare" /></a>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux,ubuntu,azure,cloudflare" height="32" />
  
 **Tools**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,maven,postman,vitest,idea" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vitest,idea" height="32" />
  
 <sub>Also: REST APIs · JUnit · Flyway · DigitalOcean · Render · Caddy</sub>
 
