@@ -1,23 +1,34 @@
+# Hi, I'm Salem 👋
 
-## 👋 Welcome! I’m Salem
-Background in e-commerce & IT, moving into cloud and server technologies.
-Always learning, always improving.
-Learning new skills and solving problems consistently drives my motivation.
+**Junior Back-End Developer** in Amsterdam · Java, Spring Boot, PostgreSQL, Docker
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Where+ideas+meet+code.)
+I worked for six years in e-commerce in Jeddah. The part I liked most was the tech behind the orders:
+Why a page is slow, or how an order can reach the shipping company without anyone typing it twice.
+Now I build back-end applications and run my own Linux server at home.
 
+- 🎓 Back-End Developer Trainee at [HackYourFuture](https://www.hackyourfuture.net/) (2026)
+- 🔧 I like to automate repeated work and keep things running quietly
+- 🌱 Learning now: Azure and DevOps tools and concepts.
+- 💼 Open to junior back-end / DevOps roles in the Netherlands
 
+## 🚀 Projects
 
-## Technologies I'd like to learn
-- Cloud computing
-- Auto scaling
-- Python
-- Javascript
+| Project | What it does | Stack |
+|---|---|---|
+| [**TagLens**](https://github.com/Barboud/TagLens) | Upload images; an AI model tags them in the background, and you can search all images by tag. | Spring Boot, PostgreSQL (JSONB), Docker, Gemini API, Backblaze B2, GitHub Actions |
+| [**Tickets**](https://github.com/Barboud/Tickets) | REST API for users, projects and tickets with filters. Assignees get an email when their ticket changes. | Spring Boot, PostgreSQL, Docker, Resend API, JUnit |
+| **Home Lab** | An old ThinkPad turned into a 24/7 Linux server for my projects. Every service runs in Docker, and the setup is kept in Git (GitOps). | Linux, Docker, Caddy, GitHub Actions |
+| [**Find-My-Film**](https://github.com/Barboud/Find-My-Film) | Team project: search and filter movies. | JavaScript, Node.js |
 
-## Top Languages Card
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barboud)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech I use
 
-## 🔥 GitHub Streak Stats
+**Back-end:** Java · Spring Boot · Node.js · Express · REST APIs
+**Databases:** PostgreSQL · MySQL · SQLite · Flyway
+**DevOps & cloud:** Docker · GitHub Actions (CI/CD) · Linux (Ubuntu) · DigitalOcean · Azure · Render
+**Testing & tools:** JUnit · Vitest · Git · Maven · Postman
 
-[![GitHub Streak](https://github-readme-streak-stats-six-delta-21.vercel.app?user=Barboud&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 📫 Contact
 
+[LinkedIn](https://www.linkedin.com/in/salem-ba-rabuod/) · [barboud@gmail.com](mailto:barboud@gmail.com)
+
+🚴 Outside code: cycling (very handy in the Netherlands) and latte art ☕
