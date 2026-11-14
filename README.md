@@ -18,7 +18,7 @@ Now I build back-end applications and run my own Linux server at home.
 | [**TagLens**](https://github.com/Barboud/TagLens) | Upload images; an AI model tags them in the background, and you can search all images by tag. | Spring Boot, PostgreSQL (JSONB), Docker, Gemini API, Backblaze B2, GitHub Actions |
 | [**Tickets**](https://github.com/Barboud/Tickets) | REST API for users, projects and tickets with filters. Assignees get an email when their ticket changes. | Spring Boot, PostgreSQL, Docker, Resend API, JUnit |
 | [**Home Lab**](https://github.com/Barboud/homelab) | An HP EliteDesk mini PC running Proxmox. I document the setup and every problem I fix. Next: host my own websites on it. | Proxmox, Linux, Networking |
-| [**Find-My-Film**](https://github.com/Barboud/Find-My-Film) | Team project: search and filter movies. | JavaScript, Node.js |
+| [**Find-My-Film**](https://github.com/Barboud/Find-My-Film) | Team project: search and filter movies. | JavaScript, Node.js, Express |
 
 ## 🛠️ Tech I use
  
