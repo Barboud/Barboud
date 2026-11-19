@@ -1,23 +1,27 @@
 # Hi, I'm Salem 👋
 
-**Junior Back-End Developer** in Amsterdam · Java, Spring Boot, PostgreSQL, Docker
+Amsterdam · I build back-end services and run the servers they live on.
 
-I worked for six years in e-commerce in Jeddah. The part I liked most was the tech behind the orders:
-Why a page is slow, or how an order can reach the shipping company without anyone typing it twice.
-Now I build back-end applications and run my own Linux server at home.
+I worked for six years in e-commerce. The part I liked most was the tech behind the orders:
+why a page is slow, or how an order can reach the shipping company without anyone typing it twice.
+Today I build APIs with Java and Spring Boot, ship them with Docker and GitHub Actions,
+and host my own websites on a Linux server at home.
 
-- 🎓 Back-End Developer Trainee at [HackYourFuture](https://www.hackyourfuture.net/) (2026)
+- 🎓 Graduated from the [HackYourFuture](https://www.hackyourfuture.net/) Back-End track (2026)
+- ☁️ [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/barboud/credentials/bddd448795e26c9b)
+- 🌐 Portfolio: [salemb.com](https://salemb.com) — self-hosted on my home lab
 - 🔧 I like to automate repeated work and keep things running quietly
-- 🌱 Learning now: Azure and DevOps tools and concepts.
-- 💼 Open to junior back-end / DevOps roles in the Netherlands
+- 🌱 Learning now: Azure, DevOps tools and concepts
+- 💼 Open to work in the Netherlands
 
 ## 🚀 Projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Flint**](https://github.com/HackYourFutureProjects/c55-final-project-group-B) · [live](https://c55b.hyf.dev) | HYF final team project: a job search platform for the Dutch market. Job postings from several boards in one search, with saved jobs behind an account. I worked on the back-end. | Java, Spring Boot, Spring Security, PostgreSQL, Flyway, Docker Compose, GitHub Actions |
 | [**TagLens**](https://github.com/Barboud/TagLens) | Upload images; an AI model tags them in the background, and you can search all images by tag. | Spring Boot, PostgreSQL (JSONB), Docker, Gemini API, Backblaze B2, GitHub Actions |
 | [**Tickets**](https://github.com/Barboud/Tickets) | REST API for users, projects and tickets with filters. Assignees get an email when their ticket changes. | Spring Boot, PostgreSQL, Docker, Resend API, JUnit |
-| [**Home Lab**](https://github.com/Barboud/homelab) | An HP EliteDesk mini PC running Proxmox. I document the setup and every problem I fix. Next: host my own websites on it. | Proxmox, Linux, Networking |
+| [**Home Lab**](https://github.com/Barboud/homelab) | An HP EliteDesk mini PC running Proxmox. It hosts my portfolio site, and I document the setup and every problem I fix. | Proxmox, Linux, Docker, Nginx, Networking |
 | [**Find-My-Film**](https://github.com/Barboud/Find-My-Film) | Team project: search and filter movies. | JavaScript, Node.js, Express |
 
 ## 🛠️ Tech I use
@@ -40,10 +44,11 @@ Now I build back-end applications and run my own Linux server at home.
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" alt="Proxmox" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat" alt="Azure" />
 <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white" alt="Caddy" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare" />
  
 **Testing & tools**<br>
@@ -57,6 +62,6 @@ Now I build back-end applications and run my own Linux server at home.
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/salem-ba-rabuod/) · [barboud@gmail.com](mailto:barboud@gmail.com)
+[salemb.com](https://salemb.com) · [LinkedIn](https://www.linkedin.com/in/salem-ba-rabuod/) · [barboud@gmail.com](mailto:barboud@gmail.com)
 
 🚴 Outside code: cycling (very handy in the Netherlands) and latte art ☕
